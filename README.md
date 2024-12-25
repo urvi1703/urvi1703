@@ -28,6 +28,7 @@ Welcome to my GitHub! I'm a **4th-year B.Tech student specializing in Computer S
    Leveraging AI and Python for better engagement and user retention.
   ## 🌟 Featured Projects  
 
+
 ### **Movie Genre Classification using Machine Learning**  
 ![Movie Genre Classification](https://via.placeholder.com/700x200.png?text=Movie+Genre+Classification)  
 A machine learning project that classifies movies into genres based on metadata and textual descriptions.  
