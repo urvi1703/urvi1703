@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋 -->
 
 <!--
 **urvi1703/urvi1703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,7 +30,7 @@ Welcome to my GitHub! I'm a **4th-year B.Tech student specializing in Computer S
 
 
 ### **Movie Genre Classification using Machine Learning**  
-![Movie Genre Classification](https://via.placeholder.com/700x200.png?text=Movie+Genre+Classification)  
+<!--![Movie Genre Classification](https://via.placeholder.com/700x200.png?text=Movie+Genre+Classification)  -->
 A machine learning project that classifies movies into genres based on metadata and textual descriptions.  
 - Techniques Used: **Natural Language Processing (NLP)**, **Scikit-learn**, **Python**.  
 - Key Features: Data preprocessing, model training (e.g., Logistic Regression, Random Forests), and accuracy evaluation.  
@@ -40,7 +40,7 @@ A machine learning project that classifies movies into genres based on metadata 
 ---
 
 ### **Credit Card Fraud Detection**  
-![Credit Card Fraud Detection](https://via.placeholder.com/700x200.png?text=Credit+Card+Fraud+Detection)  
+<!--![Credit Card Fraud Detection](https://via.placeholder.com/700x200.png?text=Credit+Card+Fraud+Detection)  -->
 Anomaly detection system to identify fraudulent transactions using machine learning algorithms.  
 - Techniques Used: **Supervised Learning**, **Imbalanced Data Handling**, **SMOTE**, **XGBoost**.  
 - Key Features: Dataset balancing, precision-recall optimization, and deployment-ready models.  
@@ -50,7 +50,7 @@ Anomaly detection system to identify fraudulent transactions using machine learn
 ---
 
 ### **Spam SMS Classification**  
-![Spam SMS Classification](https://via.placeholder.com/700x200.png?text=Spam+SMS+Classification)  
+<!--![Spam SMS Classification](https://via.placeholder.com/700x200.png?text=Spam+SMS+Classification)  -->
 A text classification project that identifies spam messages from legitimate ones using ML techniques.  
 - Techniques Used: **NLP**, **TF-IDF Vectorization**, **Naive Bayes**, **Python**.  
 - Key Features: Tokenization, feature extraction, and performance metrics visualization.  
@@ -79,9 +79,10 @@ Currently enhancing my skills in **Machine Learning**, **Deep Learning**, and **
 <!--
 ## 🧑‍💻 LeetCode Progress
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=urvashig17) -->
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=urvashig17) 
 
 ---
 
 ✨ **Top Languages**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urvi1703&layout=compact&theme=radical)
+-->
